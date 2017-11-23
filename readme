@@ -1,0 +1,16 @@
+please make sure you have following installed :
+
+tensorflow 1.3
+scipy.io.wavfile 
+python_speech_features
+jupyter notebook
+
+
+My setup used ubuntu 16.04 , Dell inspiron 15 5559 laptop ( tensorflow CPU )
+
+there is a file called words.txt , in folder named words , modify that file to create your own
+vocabulary, but please reserve last line for space words (" ") , otherwise you will get an error
+
+This project is an ongoing effort, and by no means is complete, the purpose is for me to learn state of the art techniques , concering speech recognition, please feel free to make suggestions and give feedback.
+
+
