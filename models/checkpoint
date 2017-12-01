@@ -1,0 +1,2 @@
+model_checkpoint_path: "/home/saurabh/Documents/tf_orange/tf_orange/models/model.ckpt"
+all_model_checkpoint_paths: "/home/saurabh/Documents/tf_orange/tf_orange/models/model.ckpt"
